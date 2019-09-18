@@ -12,9 +12,11 @@ https://gitlab.com/david.athersych/ELEC274Code.git
   <summary>Included licence</summary>
   
   <br/>
+  
   Some code in this repository is subject to the following licence
   found in https://gitlab.com/david.athersych/ELEC274Code/blob/master/license.md:
-  
+    
+  <br/>
   
   /* * START LICENSE
   Code developed to work with NIOS 2 Processor on DE0 (Basic) computer
